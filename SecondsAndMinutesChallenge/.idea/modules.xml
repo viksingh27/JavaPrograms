@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FeetAndInchConvertor.iml" filepath="$PROJECT_DIR$/FeetAndInchConvertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/SecondsAndMinutesChallenge.iml" />
     </modules>
   </component>
 </project>
